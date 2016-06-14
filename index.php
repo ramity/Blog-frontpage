@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="http://comp.uark.edu/~lcb005/css/index.css">
+		<link rel="stylesheet" type="text/css" href="css/index.css">
 	</head>
 	<body>
 		<div id="header">
